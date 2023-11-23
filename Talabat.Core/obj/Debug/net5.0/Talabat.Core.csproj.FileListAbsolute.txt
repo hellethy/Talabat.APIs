@@ -1,0 +1,84 @@
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\07 ASP MVC\Session 06\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 01\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 02\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 03\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 04\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+D:\Route\Cycle 38\08 ASP Web APIs\Session 05\Demos\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.deps.json
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.dll
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\bin\Debug\net5.0\Talabat.Core.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.dll
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\refint\Talabat.Core.dll
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\Talabat.Core.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Talabat.Demo.Solution\Talabat.Core\obj\Debug\net5.0\ref\Talabat.Core.dll
